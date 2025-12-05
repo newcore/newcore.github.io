@@ -1,5 +1,5 @@
 baseurl = "https://newcore.github.io"
-title = "沪上李锐聊AI和价值投资"
+title = "方渔笔记"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
 defaultTheme = "auto"
@@ -21,8 +21,8 @@ home = ["HTML", "RSS", "Algolia"]
 
 [params]
   header_image = "img/home-bg-jeep.jpg"
-  SEOTitle = "沪上李锐聊AI和价值投资 | Lirui Blog"
-  description = "李锐，定居上海，关注AI和价值投资领域，旅游爱好者 | 这里是 李锐 的博客，与你一起发现更大的世界。"
+  SEOTitle = "方渔笔记"
+  description = "李锐，定居上海，关注AI和价值投资领域，旅游爱好者 | 这里是 方渔笔记 的博客，与你一起发现更大的世界。"
   keyword = "李锐, lirui, Richard Lee, , 李锐的的博客, Lirui Blog, 博客, 个人网站, 互联网, Web, 微服务，小程序，golang，python，AI， langchain，价值投资"
   slogan = "做正确的事，把事情做正确"
   upstreamAttribution = true
